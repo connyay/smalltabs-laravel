@@ -1,6 +1,6 @@
 <?php
 
 return array(
-	'url' => 'http://st.connyay.com',
-	'baseroute' => '.st.connyay.com',
+	'url' => 'http://cjhdev.com',
+	'baseroute' => '.cjhdev.com',
 );

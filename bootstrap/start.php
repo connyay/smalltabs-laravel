@@ -34,9 +34,9 @@ $env = $app->detectEnvironment(array(
 	'raleigh-dev' => array('raleigh.smalltabs.dev'),
 
 	// Production environments
-	'prod' => array('st.connyay.com'),
-	'chicago' => array('chicago.st.connyay.com'),
-	'raleigh' => array('raleigh.st.connyay.com'),
+	'prod' => array('cjhdev.com'),
+	'chicago' => array('chicago.cjhdev.com'),
+	'raleigh' => array('raleigh.cjhdev.com'),
 
 ));
 
